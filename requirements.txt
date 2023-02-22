@@ -1,0 +1,14 @@
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-WTF
+requests
+psycopg2-binary
+python-dotenv
+SQLAlchemy
+gunicorn
+mongoengine
+flask-mongoengine
+geopy
+googlemaps
+Pillow
